@@ -1,0 +1,17 @@
+.git
+.pytest_cache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv
+env
+media
+uploads
+.env
+.env.*
+!.env.example
+htmlcov
+.coverage
+.coverage.*
